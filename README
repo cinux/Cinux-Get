@@ -1,0 +1,11 @@
+Cinux-Get is the native package manager of Cinux, the Greek Linux.
+It should be able to manipulate not only native Cinux packages (*.cpkg)
+but also Debian packages (*.deb).
+This project is open source and comes with the FREE and OPEN SOURCE
+Greek FROM SCRATCH Linux distribution named Cinux.
+
+Cinux-Get can and will work on every Linux distribution having Python and
+Bash installed.
+
+Creator AND owner: Constantine M. Apostolou <conmarap@osarena.net>
+For more see AUTHORS and LICENSE.
